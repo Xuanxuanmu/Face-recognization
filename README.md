@@ -1,0 +1,2 @@
+# Face-recognization
+这个项目记录了在下利用神经net算法实现人脸识别的学习过程，并finish对于图片中个体种族、性别、年龄的回归预测task
